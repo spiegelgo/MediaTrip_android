@@ -27,7 +27,7 @@
         </activity>
         <meta-data
             android:name="com.naver.maps.map.CLIENT_ID"
-            android:value="alwxub50ts" />
+            android:value="-----------" />
 
         <activity
             android:name=".HotlocationActivity"
